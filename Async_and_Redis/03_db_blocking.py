@@ -149,7 +149,3 @@ def db_blocking_checklist():
 ✅ 배치 처리
    # 실시간이 필요 없는 통계는 주기적으로
     """)
-
-
-if __name__ == "__main__":
-    understanding_db_blocking()
